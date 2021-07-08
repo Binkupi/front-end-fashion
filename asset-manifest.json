@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/front-end-fashion/static/css/main.1410d7be.chunk.css",
+    "main.js": "/front-end-fashion/static/js/main.513b0267.chunk.js",
+    "main.js.map": "/front-end-fashion/static/js/main.513b0267.chunk.js.map",
+    "runtime-main.js": "/front-end-fashion/static/js/runtime-main.54758079.js",
+    "runtime-main.js.map": "/front-end-fashion/static/js/runtime-main.54758079.js.map",
+    "static/css/2.d649c8cc.chunk.css": "/front-end-fashion/static/css/2.d649c8cc.chunk.css",
+    "static/js/2.377a67b7.chunk.js": "/front-end-fashion/static/js/2.377a67b7.chunk.js",
+    "static/js/2.377a67b7.chunk.js.map": "/front-end-fashion/static/js/2.377a67b7.chunk.js.map",
+    "static/js/3.9a121272.chunk.js": "/front-end-fashion/static/js/3.9a121272.chunk.js",
+    "static/js/3.9a121272.chunk.js.map": "/front-end-fashion/static/js/3.9a121272.chunk.js.map",
+    "index.html": "/front-end-fashion/index.html",
+    "static/css/2.d649c8cc.chunk.css.map": "/front-end-fashion/static/css/2.d649c8cc.chunk.css.map",
+    "static/css/main.1410d7be.chunk.css.map": "/front-end-fashion/static/css/main.1410d7be.chunk.css.map",
+    "static/js/2.377a67b7.chunk.js.LICENSE.txt": "/front-end-fashion/static/js/2.377a67b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54758079.js",
+    "static/css/2.d649c8cc.chunk.css",
+    "static/js/2.377a67b7.chunk.js",
+    "static/css/main.1410d7be.chunk.css",
+    "static/js/main.513b0267.chunk.js"
+  ]
+}
